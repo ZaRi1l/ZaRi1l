@@ -1,3 +1,6 @@
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=radical)
+
+
 - 👋 Hi, I’m @ZaRi1l
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
