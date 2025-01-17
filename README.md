@@ -30,8 +30,9 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </br></br></br>
 
-#### - 📫 How to reach me ... </br>
+#### - 📫 blog 
 https://stellacode.tistory.com/
+
 </br>
 <!---
 ZaRi1l/ZaRi1l is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
