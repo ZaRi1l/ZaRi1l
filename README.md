@@ -1,7 +1,7 @@
 
 ## ☆ Introduce  </br>
 👋 Hi, I’m @ZaRi1l  </br>
-🌱 I’m currently learning Java
+🌱 I’m currently learning Java, DB, JSP
 </br></br>
 
 ## ☆ Portfolio </br>
