@@ -1,4 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=tokyonight)
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=tokyonight" alt="ZaRi's github stats" /></a>
+<a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaRi1l&layout=donut&theme=tokyonight" alt="ZaRi's github stats" /></a>
+
 
 
 - 👋 Hi, I’m @ZaRi1l
