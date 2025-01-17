@@ -30,8 +30,9 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </br></br></br>
 
-#### - 📫 blog 
-https://stellacode.tistory.com/
+#### - 📫 How to reach me...
+<a href="https://stellacode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
+<a href="https://github.com/ZaRi1l" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 
 </br>
 <!---
