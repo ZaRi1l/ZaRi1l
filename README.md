@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=tokyonight)
 
 
 - 👋 Hi, I’m @ZaRi1l
