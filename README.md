@@ -5,8 +5,8 @@
 </br></br>
 
 ## ☆ Portfolio </br>
-<a href="https://github.com/imysh578"><img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=tokyonight" alt="ZaRi's github stats" /></a>
-<a href="https://github.com/imysh578"><img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaRi1l&layout=donut&theme=tokyonight" alt="ZaRi's github stats" /></a>
+<a href="https://github.com/ZaRi1l"><img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=tokyonight" alt="ZaRi's github stats" /></a>
+<a href="https://github.com/ZaRi1l"><img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaRi1l&layout=donut&theme=tokyonight" alt="ZaRi's github stats" /></a>
 </br></br>
 
 ## ☆ Tech Stack </br>
