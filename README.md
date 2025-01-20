@@ -1,16 +1,15 @@
 
-## ☆ Introduce  </br>
 👋 Hi, I’m @ZaRi1l  </br>
 🌱 I’m currently learning Java, DB, JSP
 </br></br>
 
-## ☆ Portfolio </br>
-<a href="https://github.com/ZaRi1l"><img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=tokyonight" alt="ZaRi's github stats" /></a>
-<a href="https://github.com/ZaRi1l"><img align="center" style="height:200px" src="http://mazassumnida.wtf/api/generate_badge?boj=rbxo0913" alt="ZaRi's github stats" /></a>
+### ☆ Portfolio </br>
+<a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=tokyonight" alt="ZaRi's github stats" /></a>
+<a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="http://mazassumnida.wtf/api/generate_badge?boj=rbxo0913" alt="ZaRi's github stats" /></a>
 </br></br>
 
-## ☆ Tech Stack </br>
-### - Language </br>
+### ☆ Tech Stack </br>
+#### - Language </br>
 <table>
 <tr>
   <td>
@@ -27,10 +26,10 @@
 </tr>
 </table>
 
-### - DB
+#### - DB
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
 </br>
-### - Tools
+#### - Tools
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
@@ -38,7 +37,7 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </br></br></br>
 
-#### - 📫 Email: zari_09@naver.com </br>
+##### - 📫 Email: zari_09@naver.com </br>
 <a href="https://stellacode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
 <a href="https://github.com/ZaRi1l" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 
