@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> 
 </td>
   <td>
-    <a href="https://github.com/ZaRi1l"><img align="center" style="height:200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaRi1l&layout=compact&theme=tokyonight" alt="ZaRi's github stats" /></a>
+    <a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaRi1l&layout=compact&theme=tokyonight" alt="ZaRi's github stats" /></a>
   </td>
 </tr>
 </table>
