@@ -6,10 +6,10 @@
 <table>
 <tr>
   <td>
-<a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=tokyonight" alt="ZaRi's github stats" /></a>
+    <a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="http://mazassumnida.wtf/api/generate_badge?boj=rbxo0913" alt="ZaRi's github stats" /></a>
   </td>
   <td>
-<a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="http://mazassumnida.wtf/api/generate_badge?boj=rbxo0913" alt="ZaRi's github stats" /></a>
+<a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=tokyonight" alt="ZaRi's github stats" /></a>
   </td>
 </tr>
 </table>
