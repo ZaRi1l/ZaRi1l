@@ -1,4 +1,4 @@
-[![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FZaRi1l&title=hits&title_bg=555555&count_bg=3cc6c8&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app)
+[![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FZaRi1l&title=hits&title_bg=555555&count_bg=3cc6c8&edge_flat=false)](https://github.com/ZaRi1l)
 <br>
 👋 Hi, I’m @ZaRi1l  </br>
 🌱 I’m currently learning Java, DB, JSP
