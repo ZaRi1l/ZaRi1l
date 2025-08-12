@@ -36,6 +36,36 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </br></br></br>
 
+
+
+
+---
+## 팀 프로젝트
+### 🛍️ ShopSphere: 풀스택 이커머스 플랫폼
+- **개요**: Spring Boot와 React를 활용해 사용자 편의성에 초점을 맞춘 커머스 플랫폼
+- **GitHub**: https://github.com/ZaRi1l/ShopSphere-Backend
+- **주요 역할**:
+  - ✅ 백엔드 핵심 API(회원, 상품, 주문, 리뷰 등) 개발 총괄
+  - ✅ WebSocket(Stomp) 기반 실시간 1:1 문의 기능 전체 구현 (Backend & Frontend)
+  - ✅ 판매자 통계 대시보드 및 상품 관리 기능 개발
+- **사용 기술**: Java, Spring Boot, Spring Security, JPA, React, WebSocket, MariaDB
+<br>
+
+### 🗓️ Gapi: 프로젝트 관리 시스템
+- **개요**: Java(JSP/Servlet)와 JavaScript를 기반으로 팀 협업과 실시간 일정 관리를 돕는 PMS(Project Management System)
+- **GitHub**: https://github.com/ZaRi1l/Gapi_Project1_PMS
+- **주요 역할**:
+  - ✅ Java Servlet을 활용한 백엔드 핵심 로직 구현 (대시보드, 작업, 회원 관리)
+  - ✅ JavaScript 기반의 프론트엔드 UI/UX 개발 (로그인, 대시보드 모달 등)
+  - ✅ ERD 설계 및 MySQL 데이터베이스 스키마 구축
+- **사용 기술**: Java (JSP/Servlet), JavaScript, MySQL, Apache Tomcat, Google Cloud, Git
+<br>
+
+
+
+
+
+
 ##### - 📫 Email: rbxo0913@gmail.com </br>
 <a href="https://stellacode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
 <a href="https://github.com/ZaRi1l" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
