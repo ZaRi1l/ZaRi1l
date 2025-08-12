@@ -1,7 +1,7 @@
 [![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FZaRi1l&title=hits&title_bg=555555&count_bg=3cc6c8&edge_flat=false)](https://github.com/ZaRi1l)
 <br>
 👋 Hi, I’m @ZaRi1l  </br>
-🌱 I’m currently learning Java, DB, JSP
+🌱 I’m deepening my knowledge in Spring Boot and exploring Cloud/Docker environments.
 </br></br>
 
 
@@ -27,11 +27,12 @@
 #### - DB
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
 #### - Tools
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+<img src="https://img.shields.io/badge/windsurf-ffffff?style=for-the-badge&logo=windsurf&logoColor=black"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+</br>
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> 
-<img src="https://img.shields.io/badge/windsurf-ffffff?style=for-the-badge&logo=windsurf&logoColor=black"/> 
+
 #### - OS
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </br></br></br>
