@@ -49,7 +49,7 @@
 ## 팀 프로젝트
 ### 🛍️ ShopSphere: 풀스택 이커머스 플랫폼
 - **개요**: Spring Boot와 React를 활용해 사용자 편의성에 초점을 맞춘 커머스 플랫폼입니다.
-- **GitHub**: https://github.com/ZaRi1l/ShopSphere-Backend
+- **GitHub**: https://github.com/ZaRi1l/ShopSphere-Backend (Backend) / https://github.com/ZaRi1l/ShopSphere-Frontend (Frontend)
 - **주요 역할**:
   - ✅ 백엔드 핵심 API(회원, 상품, 주문, 리뷰 등) 개발 총괄
   - ✅ WebSocket(Stomp) 기반 실시간 1:1 문의 기능 전체 구현 (Backend & Frontend)
@@ -89,6 +89,25 @@
   - ✅ Google Play Store 앱 등록, 심사, 배포 및 업데이트 관리 경험
 - **기술 스택**: Flutter, Dart, File I/O, fl_chart, google_mobile_ads
 - **다운로드**: [Google Play Store](https://play.google.com/store/apps/details?id=com.trade.trading_diary&hl=ko-KR)
+<br>
+
+---
+
+## 🗂️ 과거 프로젝트 (Archived Projects)
+<details>
+<summary>과거 프로젝트 및 학습 기록 보기 (Click to expand)</summary>
+<br>
+
+<!--
+### 🗓️ Gapi: 프로젝트 관리 시스템
+- **구분**: 팀 프로젝트 (4인) / 웹 애플리케이션
+- **기간**: (YYYY.MM ~ YYYY.MM)
+- **개요**: Java(JSP/Servlet) 기반으로 팀 협업과 실시간 일정 관리를 돕는 PMS입니다. Spring Boot를 학습하기 전, Java 웹 개발의 기초를 다진 프로젝트입니다.
+- **GitHub**: [Gapi_Project1_PMS](https://github.com/ZaRi1l/Gapi_Project1_PMS)
+- **기술 스택**: Java, JSP/Servlet, JavaScript, MySQL, Apache Tomcat
+-->
+
+</details>
 
 <!---
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=500&color=00ff00&width=400&height=15&lines=1100011 1101101 1101100 1101110 1100001 1001000 1010001 111101 ;init 6" alt="Typing SVG" />
