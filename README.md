@@ -35,7 +35,7 @@
 
 #### - OS
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</br></br></br>
+</br></br>
 
 ##### - 📫 Email: rbxo0913@gmail.com </br>
 <a href="https://stellacode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
@@ -43,7 +43,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&size=10&pause=50&color=00FF00&width=13&height=15&lines=%7C;%5C;-;%2F" alt="Typing SVG" />
 
-<br><br><br>
+<br><br>
 
 
 ---
