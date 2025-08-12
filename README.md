@@ -67,7 +67,7 @@
 - **기술 스택**: Java (JSP/Servlet), JavaScript, MySQL, Apache Tomcat, Google Cloud, Git
 <br>
 
-### 🎵 음원 관리 시스템 (팀 프로젝트)
+### 🎵 음원 관리 시스템
 - **개요**: C#과 Oracle DB를 이용해 개발한 데스크톱 음원 관리 프로그램입니다. 사용자는 음원을 구매하고, 아티스트는 자신의 음원을 직접 업로드하고 판매 현황을 관리할 수 있습니다.
 - **GitHub**: https://github.com/ZaRi1l/Music-management-program
 - **주요 역할**:
