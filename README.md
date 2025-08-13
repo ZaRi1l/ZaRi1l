@@ -82,6 +82,7 @@
 ### 📱 Finance-Diary: 매매일지 앱 (2023년 1인 개발 및 배포)
 - **개요**: Flutter를 독학하여 기획, 개발, 광고 수익화, 그리고 Google Play Store 배포까지 전 과정을 1인으로 진행한 안드로이드 앱입니다.
 - **GitHub**: https://github.com/ZaRi1l/Finance_Diary
+- **다운로드**: [Google Play Store](https://play.google.com/store/apps/details?id=com.trade.trading_diary&hl=ko-KR)
 - **핵심 구현**:
   - ✅ **파일 I/O**를 직접 다루어 매매 데이터를 기기 내에 영구적으로 저장/관리
   - ✅ `fl_chart`를 이용한 누적 수익률 등 통계 데이터 시각화 차트 구현
@@ -89,7 +90,6 @@
   - ✅ `google_mobile_ads`를 적용한 광고 수익화 모델 구현
   - ✅ Google Play Store 앱 등록, 심사, 배포 및 업데이트 관리 경험
 - **기술 스택**: Flutter, Dart, File I/O, fl_chart, google_mobile_ads
-- **다운로드**: [Google Play Store](https://play.google.com/store/apps/details?id=com.trade.trading_diary&hl=ko-KR)
 <br>
 
 ---
@@ -99,14 +99,33 @@
 <summary>과거 프로젝트 및 학습 기록 보기 (Click to expand)</summary>
 <br>
 
-<!--
-### 🗓️ Gapi: 프로젝트 관리 시스템
-- **구분**: 팀 프로젝트 (4인) / 웹 애플리케이션
-- **기간**: (YYYY.MM ~ YYYY.MM)
-- **개요**: Java(JSP/Servlet) 기반으로 팀 협업과 실시간 일정 관리를 돕는 PMS입니다. Spring Boot를 학습하기 전, Java 웹 개발의 기초를 다진 프로젝트입니다.
-- **GitHub**: [Gapi_Project1_PMS](https://github.com/ZaRi1l/Gapi_Project1_PMS)
-- **기술 스택**: Java, JSP/Servlet, JavaScript, MySQL, Apache Tomcat
--->
+### 📱 반려동물 정보 앱
+- **구분**: 팀 프로젝트 (4인) / 모바일 애플리케이션
+- **기간**: 2023.03 ~ 2023.06 
+- **개요**: 국가동물보호정보시스템의 데이터를 웹 크롤링하여 안드로이드 환경에서 반려동물 정보를 검색 및 조회할 수 있도록 개발된 모바일 애플리케이션입니다. Android 앱 개발 및 웹 크롤링 기초를 다진 프로젝트입니다.
+- **GitHub**: https://github.com/ZaRi1l/AnimalInformation
+- **주요 역할**:
+  - ✅ **웹 크롤링 로직 구현**: 국가동물보호정보시스템의 데이터를 파싱하여 앱에 표시
+  - ✅ **동적 검색 필터 개발**: 날짜, 도시, 종 등에 따른 상세 검색 기능 및 시/도-시/군/구 연동 기능 구현
+  - ✅ **UI/UX 설계 및 구현**: 시작 화면, 메인 리스트, 상세 정보 화면 등 안드로이드 사용자 인터페이스 구성
+  - ✅ **데이터 처리**: ArrayList, HashMap 등을 활용한 효율적인 데이터 관리 및 출력
+- **기술 스택**: Java, Android Studio, (Web Crawling)
+<br>
+
+### 🌐 음식 호불호 테스트
+- **구분**: 개인 프로젝트 (1인) / 웹 애플리케이션
+- **기간**: 2023.05
+- **개요**: HTML, CSS, JavaScript를 독학하여 개발한 웹 기반 음식 호불호 테스트 애플리케이션입니다. 사용자 인터랙션과 클라이언트 측 로직 구현에 중점을 둔 프로젝트입니다.
+- **GitHub**: https://github.com/ZaRi1l/likefoodtest
+- **사이트 주소**: https://likefoodtest.netlify.app/
+- **핵심 구현**:
+  - ✅ **웹 기반의 인터랙티브한 UI/UX 구현**: 메인 화면, 질문 진행, 최종 결과 화면 등 전체 웹 페이지 구성
+  - ✅ **JavaScript 기반의 테스트 로직 개발**: 질문 진행, 사용자 선택에 따른 점수 계산, 결과 도출 알고리즘 구현
+  - ✅ **동적 콘텐츠 로드 및 표시**: 음식 이미지, 질문, 결과 텍스트 등을 동적으로 변경하여 사용자 경험 제공
+  - ✅ **소셜 공유 기능 구현**: 카카오톡 공유 및 클립보드 복사 기능 추가
+  - ✅ **1인 기획 및 개발**: 웹 프론트엔드 개발 전반(기획, UI/UX, 구현, 배포)에 대한 실무 경험 습득
+- **기술 스택**: HTML, CSS, JavaScript, Bootstrap
+<br>
 
 </details>
 
