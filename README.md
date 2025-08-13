@@ -41,9 +41,8 @@
 <a href="https://stellacode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
 <a href="https://github.com/ZaRi1l" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&size=10&pause=50&color=00FF00&width=13&height=15&lines=%7C;%5C;-;%2F" alt="Typing SVG" />
-
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&size=10&pause=50&color=00FF00&width=13&height=15&lines=%7C;%5C;-;%2F" alt="Typing SVG" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=500&color=00ff00&width=400&height=15&lines=1100011+1101101+1101100+1101110+1100001+1001000+1010001+111101;init+6" alt="Typing SVG" />
+<br><br><br>
 
 
 ---
