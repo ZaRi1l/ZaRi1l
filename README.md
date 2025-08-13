@@ -49,46 +49,54 @@
 ---
 ## 팀 프로젝트
 ### 🛍️ ShopSphere: 풀스택 이커머스 플랫폼
+- **구분**: 팀 프로젝트 (4인) / 웹 애플리케이션
+- **기간**: 2025.05 ~ 202X.07
 - **개요**: Spring Boot와 React를 활용해 사용자 편의성에 초점을 맞춘 커머스 플랫폼입니다.
 - **GitHub**: https://github.com/ZaRi1l/ShopSphere-Backend (Backend) / https://github.com/ZaRi1l/ShopSphere-Frontend (Frontend)
 - **주요 역할**:
-  - ✅ 백엔드 핵심 API(회원, 상품, 주문, 리뷰 등) 개발 총괄
-  - ✅ WebSocket(Stomp) 기반 실시간 1:1 문의 기능 전체 구현 (Backend & Frontend)
-  - ✅ 판매자 통계 대시보드 및 상품 관리 기능 개발
+  - ✅ **백엔드 핵심 API 개발 총괄**: 회원, 상품, 주문, 리뷰 등 주요 기능 구현 및 관리 수행
+  - ✅ **WebSocket(Stomp) 기반 실시간 1:1 문의 기능 구현**: Backend 및 Frontend 전체 개발
+  - ✅ **판매자 통계 대시보드 및 상품 관리 기능 개발**
 - **기술 스택**: Java, Spring Boot, Spring Security, JPA, React, WebSocket, MariaDB
 <br>
 
 ### 🗓️ Gapi: 프로젝트 관리 시스템
+- **구분**: 팀 프로젝트 (4인) / 웹 애플리케이션
+- **기간**: 2025.01 ~ 202X.02
 - **개요**: Java(JSP/Servlet)와 JavaScript를 기반으로 팀 협업과 실시간 일정 관리를 돕는 PMS(Project Management System)입니다.
 - **GitHub**: https://github.com/ZaRi1l/Gapi_Project1_PMS
 - **주요 역할**:
-  - ✅ Java Servlet을 활용한 백엔드 핵심 로직 구현 (대시보드, 작업, 회원 관리)
-  - ✅ JavaScript 기반의 프론트엔드 UI/UX 개발 (로그인, 대시보드 모달 등)
-  - ✅ ERD 설계 및 MySQL 데이터베이스 스키마 구축
+  - ✅ **Java Servlet 기반 백엔드 핵심 로직 구현**: 대시보드, 작업, 회원 관리 기능 개발
+  - ✅ **JavaScript 기반 프론트엔드 UI/UX 개발**: 로그인, 대시보드 모달 등 사용자 인터페이스 구현
+  - ✅ **ERD 설계 및 MySQL 데이터베이스 스키마 구축**
 - **기술 스택**: Java (JSP/Servlet), JavaScript, MySQL, Apache Tomcat, Google Cloud, Git
 <br>
 
 ### 🎵 음원 관리 시스템
+- **구분**: 팀 프로젝트 (4인) / 데스크톱 애플리케이션
+- **기간**: 2024.09 ~ 2024.12
 - **개요**: C#과 Oracle DB를 이용해 개발한 데스크톱 음원 관리 프로그램입니다. 사용자는 음원을 구매하고, 아티스트는 자신의 음원을 직접 업로드하고 판매 현황을 관리할 수 있습니다.
 - **GitHub**: https://github.com/ZaRi1l/Music-management-program
 - **주요 역할**:
-  - ✅ 인기/최신 차트, 조건별 음원 검색, 음원 구매 등 핵심 기능을 C#으로 구현
-  - ✅ 업무 기술서 작성, 정규화 등 데이터베이스 설계 전 과정을 주도
-  - ✅ Oracle DB 테이블 생성 및 데이터 입력을 위한 SQL 스크립트를 작성
+  - ✅ **C# 기반 핵심 기능 구현**: 인기/최신 차트, 조건별 음원 검색, 음원 구매 등 개발
+  - ✅ **데이터베이스 설계**: 업무 기술서 작성 및 정규화 과정 총괄 수행
+  - ✅ **Oracle DB 테이블 생성 및 SQL 스크립트 작성**
 - **기술 스택**: C#, .NET Framework, WinForms, OracleDB, SQL
 <br>
 
 ## 개인 프로젝트
 ### 📱 Finance-Diary: 매매일지 앱 (2023년 1인 개발 및 배포)
+- **구분**: 개인 프로젝트 (1인) / 모바일 애플리케이션
+- **기간**: 2023.07 ~ 2023.08
 - **개요**: Flutter를 독학하여 기획, 개발, 광고 수익화, 그리고 Google Play Store 배포까지 전 과정을 1인으로 진행한 안드로이드 앱입니다.
 - **GitHub**: https://github.com/ZaRi1l/Finance_Diary
 - **다운로드**: [Google Play Store](https://play.google.com/store/apps/details?id=com.trade.trading_diary&hl=ko-KR)
 - **핵심 구현**:
-  - ✅ **파일 I/O**를 직접 다루어 매매 데이터를 기기 내에 영구적으로 저장/관리
-  - ✅ `fl_chart`를 이용한 누적 수익률 등 통계 데이터 시각화 차트 구현
-  - ✅ `excel` 라이브러리를 통한 매매 기록 파일(.xlsx) 내보내기 기능
-  - ✅ `google_mobile_ads`를 적용한 광고 수익화 모델 구현
-  - ✅ Google Play Store 앱 등록, 심사, 배포 및 업데이트 관리 경험
+  - ✅ **파일 I/O 기반 데이터 저장/관리 기능 구현**: 매매 데이터를 기기 내에 영구적으로 저장 및 관리
+  - ✅ **fl_chart 활용 통계 데이터 시각화**: 누적 수익률 등 차트 구현
+  - ✅ **excel 라이브러리 기반 파일 내보내기 기능 개발**: 매매 기록 파일(.xlsx) 생성 및 내보내기
+  - ✅ **Google Mobile Ads 적용 및 수익화 모델 구현**
+  - ✅ **Google Play Store 앱 등록 및 배포 관리**: 심사, 업데이트 등 전 과정 수행
 - **기술 스택**: Flutter, Dart, File I/O, fl_chart, google_mobile_ads
 <br>
 
@@ -105,10 +113,10 @@
 - **개요**: 국가동물보호정보시스템의 데이터를 웹 크롤링하여 안드로이드 환경에서 반려동물 정보를 검색 및 조회할 수 있도록 개발된 모바일 애플리케이션입니다. Android 앱 개발 및 웹 크롤링 기초를 다진 프로젝트입니다.
 - **GitHub**: https://github.com/ZaRi1l/AnimalInformation
 - **주요 역할**:
-  - ✅ **웹 크롤링 로직 구현**: 국가동물보호정보시스템의 데이터를 파싱하여 앱에 표시
+  - ✅ **웹 크롤링 로직 구현**: 국가동물보호정보시스템에서 반려동물 정보를 수집 및 파싱 기능 구현
   - ✅ **동적 검색 필터 개발**: 날짜, 도시, 종 등에 따른 상세 검색 기능 및 시/도-시/군/구 연동 기능 구현
   - ✅ **UI/UX 설계 및 구현**: 시작 화면, 메인 리스트, 상세 정보 화면 등 안드로이드 사용자 인터페이스 구성
-  - ✅ **데이터 처리**: ArrayList, HashMap 등을 활용한 효율적인 데이터 관리 및 출력
+  - ✅ **데이터 처리 및 관리**: ArrayList, HashMap 등을 활용한 효율적인 데이터 관리 및 출력
 - **기술 스택**: Java, Android Studio, (Web Crawling)
 <br>
 
