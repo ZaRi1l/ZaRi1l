@@ -50,7 +50,7 @@
 ## 팀 프로젝트
 ### 🛍️ ShopSphere: 풀스택 이커머스 플랫폼
 - **구분**: 팀 프로젝트 (4인) / 웹 애플리케이션
-- **기간**: 2025.05 ~ 202X.07
+- **기간**: 2025.05 ~ 2025.07
 - **개요**: Spring Boot와 React를 활용해 사용자 편의성에 초점을 맞춘 커머스 플랫폼입니다.
 - **GitHub**: https://github.com/ZaRi1l/ShopSphere-Backend (Backend) / https://github.com/ZaRi1l/ShopSphere-Frontend (Frontend)
 - **주요 역할**:
@@ -62,7 +62,7 @@
 
 ### 🗓️ Gapi: 프로젝트 관리 시스템
 - **구분**: 팀 프로젝트 (4인) / 웹 애플리케이션
-- **기간**: 2025.01 ~ 202X.02
+- **기간**: 2025.01 ~ 2025.02
 - **개요**: Java(JSP/Servlet)와 JavaScript를 기반으로 팀 협업과 실시간 일정 관리를 돕는 PMS(Project Management System)입니다.
 - **GitHub**: https://github.com/ZaRi1l/Gapi_Project1_PMS
 - **주요 역할**:
