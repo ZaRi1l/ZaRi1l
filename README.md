@@ -7,8 +7,8 @@
 
 <a href="https://solved.ac/profile/rbxo0913"><img align="center" style="height:185px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rbxo0913" alt="ZaRi's github stats" /></a> 
 <br> <br>
-<a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=tokyonight" alt="ZaRi's github stats" /></a>
-<a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaRi1l&layout=compact&theme=tokyonight" alt="ZaRi's github stats" /></a>
+<a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=transparent" alt="ZaRi's github stats" /></a>
+<a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaRi1l&layout=compact&theme=transparent" alt="ZaRi's github stats" /></a>
 
 </br></br>
 
