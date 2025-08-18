@@ -1,3 +1,5 @@
+![Slice](https://capsule-render.vercel.app/api?type=slice&height=100&color=0:AAB8C6,100:29384E&text=ZaRi1l's%20GitHub&section=header&fontColor=ffffff&fontAlign=76&fontAlignY=30&rotate=6.5&animation=fadeIn&fontSize=49)
+
 [![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FZaRi1l&title=hits&title_bg=555555&count_bg=3cc6c8&edge_flat=false)](https://github.com/ZaRi1l)
 <br>
 👋 Hi, I’m @ZaRi1l  </br>
