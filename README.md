@@ -49,7 +49,7 @@
 ### 팀 프로젝트
 
 #### ✨ VisiDoc: 의료 영상 통합 조회 시스템
-*   **구분**: 팀 프로젝트 (3인) / 웹 애플리케이션
+*   **구분**: 팀 프로젝트 (3인 / 팀장) / 웹 애플리케이션
 *   **기간**: 2025.08 ~ 2025.09
 *   **개요**: 의료진을 위한 웹 기반 의료 이미 통합 조회 시스템입니다. 복잡한 설치 없이 브라우저에서 환자의 DICOM 영상과 분산된 의료 기록을 한눈에 확인할 수 있습니다.
 *   **GitHub**: https://github.com/Sahmyook-4-team/3thproject-back (Backend) / https://github.com/Sahmyook-4-team/3thproject-front (Frontend)
