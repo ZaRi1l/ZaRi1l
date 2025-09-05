@@ -59,7 +59,7 @@
   - ✅ **하이브리드 API 개발**: 데이터 성격에 따라 GraphQL과 REST API를 동시 적용하여 API 성능 및 구조 최적화
   - ✅ **인프라 구축 및 CI/CD 자동화**: AWS(EC2, RDS) 기반 인프라 구축 및 Docker, Github Actions를 활용한 배포 자동화 파이프라인 설계
   - ✅ **DICOM 웹 뷰어 개발**: Cornerstone.js 기반으로 이미지 렌더링, 분석 도구 등 프론트엔드 핵심 기능 구현
-- **기술 스택**: Java, Spring Boot, GraphQL, Spring Security, JPA, Next.js, React, Cornerstone.js, Oracle, PostgreSQL, AWS, Docker, Git
+- **기술 스택**: Java, Spring Boot, GraphQL, Spring Security, JPA, Next.js, React, Cornerstone.js, Oracle, PostgreSQL, AWS, Docker, GitHub Actions, Git
 <br>  
 
 #### 🛍️ ShopSphere: 풀스택 이커머스 플랫폼
@@ -72,7 +72,7 @@
   - ✅ **WebSocket(Stomp) 기반 실시간 1:1 문의 기능 구현**: Backend 및 Frontend 전체 개발
   - ✅ **Gemini AI API를 활용한 챗봇 기능 기술 검증(PoC)** 및 프론트엔드 연동
   - ✅ **판매자를 위한 통계 대시보드 및 상품 관리 기능 개발**
-- **기술 스택**: Java, Spring Boot, Spring Security, JPA, React, WebSocket, Gemini AI, MariaDB
+- **기술 스택**: Java, Spring Boot, Spring Security, JPA, React, WebSocket, Gemini AI, MariaDB, Git
 <br>
 
 ### 개인 프로젝트
@@ -119,7 +119,7 @@
   - ✅ **C# 기반 핵심 기능 구현**: 인기/최신 차트, 조건별 음원 검색, 음원 구매 등 개발
   - ✅ **데이터베이스 설계**: 업무 기술서 작성 및 정규화 과정 총괄 수행
   - ✅ **Oracle DB 테이블 생성 및 SQL 스크립트 작성**
-- **기술 스택**: C#, .NET Framework, WinForms, OracleDB, SQL
+- **기술 스택**: C#, .NET Framework, WinForms, OracleDB, SQL, Git
 <br>
 
 #### 🎮 Project-game (졸업작품)
@@ -131,7 +131,7 @@
   - ✅ **팀장으로서 Git 기반 협업 및 코드 리뷰, 병합 총괄**
   - ✅ **플레이어 핵심 로직 전체 개발**: 이동, 점프 등 기본 액션과 3단 콤보, 스킬, 피격/무적 등 전투 시스템 구현
   - ✅ **애니메이션 시스템 구현**: Enum 상태 머신 기반으로 플레이어 및 몬스터 애니메이션을 연동하고, 양측의 공격/피격 상호작용 개발
-- **기술 스택**: C#, Unity
+- **기술 스택**: C#, Unity, Git
 <br>
 
 #### 📱 반려동물 정보 앱
