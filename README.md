@@ -45,8 +45,23 @@
 
 
 ---
-## 팀 프로젝트
-### 🛍️ ShopSphere: 풀스택 이커머스 플랫폼
+## 🚀 주요 프로젝트 (Main Projects)
+### 팀 프로젝트
+
+#### ✨ VisiDoc: 의료 영상 통합 조회 시스템
+*   **구분**: 팀 프로젝트 (3인) / 웹 애플리케이션
+*   **기간**: 2025.08 ~ 2025.09
+*   **개요**: 의료진을 위한 웹 기반 의료 이미 통합 조회 시스템입니다. 복잡한 설치 없이 브라우저에서 환자의 DICOM 영상과 분산된 의료 기록을 한눈에 확인할 수 있습니다.
+*   **GitHub**: https://github.com/Sahmyook-4-team/3thproject-back (Backend) / https://github.com/Sahmyook-4-team/3thproject-front (Frontend)
+*   **주요 역할**:
+    *   ✅ **Multi-Datasource 아키텍처 설계**: Spring Boot 환경에서 이종 DB(Oracle, PostgreSQL)를 동시 연동하는 백엔드 구조 설계 및 구현
+    *   ✅ **하이브리드 API 개발**: 데이터 성격에 따라 GraphQL과 REST API를 동시 적용하여 API 성능 및 구조 최적화
+    *   ✅ **인프라 구축 및 CI/CD 자동화**: AWS(EC2, RDS) 기반 인프라 구축 및 Docker, Github Actions를 활용한 배포 자동화 파이프라인 설계
+    *   ✅ **DICOM 웹 뷰어 개발**: Cornerstone.js 기반으로 이미지 렌더링, 분석 도구 등 프론트엔드 핵심 기능 구현
+*   **기술 스택**: Java, Spring Boot, GraphQL, Spring Security, JPA, Next.js, React, Cornerstone.js, Oracle, PostgreSQL, AWS, Docker, Git
+<br>  
+
+#### 🛍️ ShopSphere: 풀스택 이커머스 플랫폼
 - **구분**: 팀 프로젝트 (4인) / 웹 애플리케이션
 - **기간**: 2025.05 ~ 2025.07
 - **개요**: Spring Boot와 React를 활용해 사용자 편의성에 초점을 맞춘 커머스 플랫폼입니다.
@@ -54,39 +69,16 @@
 - **주요 역할**:
   - ✅ **백엔드 핵심 API 개발 총괄**: 회원, 상품, 주문, 리뷰 등 주요 기능 구현 및 관리 수행
   - ✅ **WebSocket(Stomp) 기반 실시간 1:1 문의 기능 구현**: Backend 및 Frontend 전체 개발
-  - ✅ **판매자 통계 대시보드 및 상품 관리 기능 개발**
-- **기술 스택**: Java, Spring Boot, Spring Security, JPA, React, WebSocket, MariaDB
+  - ✅ **Gemini AI API를 활용한 챗봇 기능 기술 검증(PoC)** 및 프론트엔드 연동
+  - ✅ **판매자를 위한 통계 대시보드 및 상품 관리 기능 개발**
+- **기술 스택**: Java, Spring Boot, Spring Security, JPA, React, WebSocket, Gemini AI, MariaDB
 <br>
 
-### 🗓️ Gapi: 프로젝트 관리 시스템
-- **구분**: 팀 프로젝트 (4인) / 웹 애플리케이션
-- **기간**: 2025.01 ~ 2025.02
-- **개요**: Java(JSP/Servlet)와 JavaScript를 기반으로 팀 협업과 실시간 일정 관리를 돕는 PMS(Project Management System)입니다.
-- **GitHub**: https://github.com/ZaRi1l/Gapi_Project1_PMS
-- **주요 역할**:
-  - ✅ **Java Servlet 기반 백엔드 핵심 로직 구현**: 대시보드, 작업, 회원 관리 기능 개발
-  - ✅ **JavaScript 기반 프론트엔드 UI/UX 개발**: 로그인, 대시보드 모달 등 사용자 인터페이스 구현
-  - ✅ **ERD 설계 및 MySQL 데이터베이스 스키마 구축**
-- **기술 스택**: Java (JSP/Servlet), JavaScript, MySQL, Apache Tomcat, Google Cloud, Git
-<br>
-
-### 🎵 음원 관리 시스템
-- **구분**: 팀 프로젝트 (4인) / 데스크톱 애플리케이션
-- **기간**: 2024.09 ~ 2024.12
-- **개요**: C#과 Oracle DB를 이용해 개발한 데스크톱 음원 관리 프로그램입니다. 사용자는 음원을 구매하고, 아티스트는 자신의 음원을 직접 업로드하고 판매 현황을 관리할 수 있습니다.
-- **GitHub**: https://github.com/ZaRi1l/Music-management-program
-- **주요 역할**:
-  - ✅ **C# 기반 핵심 기능 구현**: 인기/최신 차트, 조건별 음원 검색, 음원 구매 등 개발
-  - ✅ **데이터베이스 설계**: 업무 기술서 작성 및 정규화 과정 총괄 수행
-  - ✅ **Oracle DB 테이블 생성 및 SQL 스크립트 작성**
-- **기술 스택**: C#, .NET Framework, WinForms, OracleDB, SQL
-<br>
-
-## 개인 프로젝트
-### 📱 Finance-Diary: 매매일지 앱 (2023년 1인 개발 및 배포)
+### 개인 프로젝트
+#### 📱 Finance-Diary: 매매일지 앱 (2023년 1인 개발 및 배포)
 - **구분**: 개인 프로젝트 (1인) / 모바일 애플리케이션
 - **기간**: 2023.07 ~ 2023.08
-- **개요**: Flutter를 독학하여 기획, 개발, 광고 수익화, 그리고 Google Play Store 배포까지 전 과정을 1인으로 진행한 안드로이드 앱입니다.
+- **개요**: 개인의 매매 기록을 관리하고 시각화하는 안드로이드 앱으로, Flutter 독학부터 기획, 개발, Google Play Store 배포 및 광고 수익화까지 전 과정을 1인으로 진행했습니다.
 - **GitHub**: https://github.com/ZaRi1l/Finance_Diary
 - **다운로드**: [Google Play Store](https://play.google.com/store/apps/details?id=com.trade.trading_diary&hl=ko-KR)
 - **핵심 구현**:
@@ -100,12 +92,48 @@
 
 ---
 
-## 🗂️ 과거 프로젝트 (Archived Projects)
+## 🗂️ 추가 프로젝트 경험 (Additional Projects)
 <details>
-<summary>과거 프로젝트 및 학습 기록 보기 (Click to expand)</summary>
+<summary>웹/데스크톱/게임 등 다양한 분야의 개발 경험 보기 (Click to expand)</summary>
 <br>
 
-### 📱 반려동물 정보 앱
+#### 🗓️ Gapi: 프로젝트 관리 시스템
+- **구분**: 팀 프로젝트 (4인) / 웹 애플리케이션
+- **기간**: 2025.01 ~ 2025.02
+- **개요**: Java(JSP/Servlet)와 JavaScript를 기반으로 팀 협업과 실시간 일정 관리를 돕는 PMS(Project Management System)입니다.
+- **GitHub**: https://github.com/ZaRi1l/Gapi_Project1_PMS
+- **주요 역할**:
+  - ✅ **Java Servlet 기반 백엔드 핵심 로직 구현**: 대시보드, 작업, 회원 관리 기능 개발
+  - ✅ **JavaScript 기반 프론트엔드 UI/UX 개발**: 로그인, 대시보드 모달 등 사용자 인터페이스 구현
+  - ✅ **ERD 설계 및 MySQL 데이터베이스 스키마 구축**
+- **기술 스택**: Java (JSP/Servlet), JavaScript, MySQL, Apache Tomcat, Google Cloud, Git
+<br>
+
+#### 🎵 음원 관리 시스템
+- **구분**: 팀 프로젝트 (4인) / 데스크톱 애플리케이션
+- **기간**: 2024.09 ~ 2024.12
+- **개요**: C#과 Oracle DB를 이용해 개발한 데스크톱 음원 관리 프로그램입니다. 사용자는 음원을 구매하고, 아티스트는 자신의 음원을 직접 업로드하고 판매 현황을 관리할 수 있습니다.
+- **GitHub**: https://github.com/ZaRi1l/Music-management-program
+- **주요 역할**:
+  - ✅ **C# 기반 핵심 기능 구현**: 인기/최신 차트, 조건별 음원 검색, 음원 구매 등 개발
+  - ✅ **데이터베이스 설계**: 업무 기술서 작성 및 정규화 과정 총괄 수행
+  - ✅ **Oracle DB 테이블 생성 및 SQL 스크립트 작성**
+- **기술 스택**: C#, .NET Framework, WinForms, OracleDB, SQL
+<br>
+
+#### 🎮 Project-game (졸업작품)
+- **구분**: 팀 프로젝트 (4인) / PC 게임
+- **기간**: 2025.03 ~ 2025.06 (프로토타입 개발 완료)
+- **개요**: Unity와 C#을 활용해 개발한 2D 액션 플랫포머 게임입니다. 
+- **GitHub**: Private Repository (구매 에셋의 라이선스 준수를 위해 비공개)
+- **주요 역할**:
+  - ✅ **팀장으로서 Git 기반 협업 및 코드 리뷰, 병합 총괄**
+  - ✅ **플레이어 핵심 로직 전체 개발**: 이동, 점프 등 기본 액션과 3단 콤보, 스킬, 피격/무적 등 전투 시스템 구현
+  - ✅ **애니메이션 시스템 구현**: Enum 상태 머신 기반으로 플레이어 및 몬스터 애니메이션을 연동하고, 양측의 공격/피격 상호작용 개발
+- **기술 스택**: C#, Unity
+<br>
+
+#### 📱 반려동물 정보 앱
 - **구분**: 팀 프로젝트 (4인) / 모바일 애플리케이션
 - **기간**: 2023.03 ~ 2023.06 
 - **개요**: 국가동물보호정보시스템의 데이터를 웹 크롤링하여 안드로이드 환경에서 반려동물 정보를 검색 및 조회할 수 있도록 개발된 모바일 애플리케이션입니다. Android 앱 개발 및 웹 크롤링 기초를 다진 프로젝트입니다.
@@ -118,7 +146,7 @@
 - **기술 스택**: Java, Android Studio, (Web Crawling)
 <br>
 
-### 🌐 음식 호불호 테스트
+#### 🌐 음식 호불호 테스트
 - **구분**: 개인 프로젝트 (1인) / 웹 애플리케이션
 - **기간**: 2023.05
 - **개요**: HTML, CSS, JavaScript를 독학하여 개발한 웹 기반 음식 호불호 테스트 애플리케이션입니다. 사용자 인터랙션과 클라이언트 측 로직 구현에 중점을 둔 프로젝트입니다.
