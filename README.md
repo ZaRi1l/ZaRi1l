@@ -55,7 +55,7 @@
 - **구분**: 팀 프로젝트 (3인 / 팀장) / 웹 애플리케이션
 - **기간**: 2025.08 ~ 2025.09
 - **개요**: 의료진을 위한 웹 기반 의료 이미지 통합 조회 시스템입니다. 복잡한 설치 없이 브라우저에서 환자의 DICOM 영상과 분산된 의료 기록을 한눈에 확인할 수 있습니다.
-- **GitHub**: https://github.com/Sahmyook-4-team/3thproject-back (Backend) / https://github.com/Sahmyook-4-team/3thproject-front (Frontend)
+- **GitHub**: https://github.com/ZaRi1l/3thproject-back (Backend) / https://github.com/ZaRi1l/3thproject-front (Frontend)
 - **사이트 주소**: https://visidoc.zaristory.com (※ Oracle DB 연동 제외로 일부 기능 미작동 ex. 검색, 뷰어)
   - ※ 데모 계정: ID: guest / PW: guest1234
 - **주요 역할**:
