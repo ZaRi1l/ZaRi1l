@@ -87,7 +87,7 @@
 - **기간**: 2023.07 ~ 2023.08
 - **개요**: 개인의 매매 기록을 관리하고 시각화하는 안드로이드 앱으로, Flutter 독학부터 기획, 개발, Google Play Store 배포 및 광고 수익화까지 전 과정을 1인으로 진행했습니다.
 - **GitHub**: https://github.com/ZaRi1l/Finance_Diary
-- **다운로드**: [Google Play Store](https://play.google.com/store/apps/details?id=com.trade.trading_diary&hl=ko-KR)
+- **다운로드**: [Google Play Store (500+ Downloads)](https://play.google.com/store/apps/details?id=com.trade.trading_diary&hl=ko-KR)
 - **핵심 구현**:
   - ✅ **파일 I/O 기반 데이터 저장/관리 기능 구현**: 매매 데이터를 기기 내에 영구적으로 저장 및 관리
   - ✅ **fl_chart 활용 통계 데이터 시각화**: 누적 수익률 등 차트 구현
