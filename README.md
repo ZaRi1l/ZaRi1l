@@ -2,8 +2,12 @@
 <br>
 👋 Hi, I’m @ZaRi1l  </br>
 🌱 I’m deepening my knowledge in Spring Boot and exploring Cloud/Docker environments.
-</br></br>
+</br>
 
+##### - 📫 Email: rbxo0913@gmail.com </br>
+<a href="https://stellacode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
+<a href="https://github.com/ZaRi1l" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
+</br></br></br>
 
 <a href="https://solved.ac/profile/rbxo0913"><img align="center" style="height:185px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rbxo0913" alt="ZaRi's github stats" /></a> 
 <br> <br>
@@ -38,10 +42,6 @@
 #### - OS
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </br></br>
-
-##### - 📫 Email: rbxo0913@gmail.com </br>
-<a href="https://stellacode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory blog-ce4e24?style=flat-square&logo=blog&logoColor=white"/></a>
-<a href="https://github.com/ZaRi1l" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&size=10&pause=50&color=00FF00&width=13&height=15&lines=%7C;%5C;-;%2F" alt="Typing SVG" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=500&color=00ff00&width=400&height=15&lines=1100011+1101101+1101100+1101110+1100001+1001000+1010001+111101;init+6" alt="Typing SVG" />
 <br><br><br>
