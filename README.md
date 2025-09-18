@@ -57,7 +57,7 @@
 - **개요**: 의료진을 위한 웹 기반 의료 이미지 통합 조회 시스템입니다. 복잡한 설치 없이 브라우저에서 환자의 DICOM 영상과 분산된 의료 기록을 한눈에 확인할 수 있습니다.
 - **GitHub**: https://github.com/ZaRi1l/3thproject-back (Backend) / https://github.com/ZaRi1l/3thproject-front (Frontend)
 - **사이트 주소**: https://visidoc.zaristory.com (※ Oracle DB 연동 제외로 일부 기능 미작동 ex. 검색, 뷰어)
-  - ※ 데모 계정: ID: guest / PW: guest1234
+  - ※ 데모 계정: ID: guest / PW: guest1234 | ID: guest2 / PW: guest1234
 - **주요 역할**:
   - ✅ **팀장으로서 코드 리뷰 및 병합을 주도하며 개발 워크플로우를 관리**
   - ✅ **Multi-Datasource 아키텍처 설계**: Spring Boot 환경에서 이종 DB(Oracle, PostgreSQL)를 동시 연동하는 백엔드 구조 설계 및 구현
