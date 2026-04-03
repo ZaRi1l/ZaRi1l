@@ -49,6 +49,25 @@
 
 ---
 ## 🚀 주요 프로젝트 (Main Projects)
+
+## SAP
+
+#### 🏭 O2C Cockpit: Order to Cash 통합 관리 및 전표 자동 생성 시스템
+- **구분**: 개인 프로젝트 (1인) / SAP ERP 프로그램
+- **기간**: 2025.12 ~ 2026.01
+- **개요**: 표준 SAP 환경에서 분산된 판매/물류 데이터를 단일 인터페이스에서 모니터링하고, PO 수령부터 최종 Billing까지의 다단계 전표 생성 과정을 자동화하여 업무 처리 효율을 높힌 통합 관제탑(Cockpit) 프로그램입니다.
+- **GitHub**: https://github.com/ZaRi1l/SAP-O2C-Automation-Cockpit
+- **주요 역할**:
+  - ✅ **통합 비즈니스 Cockpit UI 설계**: OO-ALV를 활용해 전체 현황과 상세 아이템을 실시간 연동하는 Master-Detail 화면 구현
+  - ✅ **다단계 전표 자동 생성 엔진 구축**: 원클릭으로 SO → DO → GI → Billing이 연쇄적으로 생성되는 업무 프로세스 자동화
+  - ✅ **사전 검증(Pre-check) 로직을 통한 데이터 무결성 확보**: 선행 문서 누락 및 중복 생성을 실시간으로 차단하는 예외 처리 개발
+  - ✅ **대용량 데이터 조회 성능 최적화 및 Selective Refresh 전략 도입**: `FOR ALL ENTRIES` 튜닝, `Secondary/Sorted Key` 활용 및 변경 플래그(Flag) 기반의 리소스 최적화 로직 구현
+  - ✅ **CBO 테이블 기반 동적 권한 제어**: 로그인 유저별로 버튼 활성화 및 필드 편집 권한을 동적으로 관리하는 보안 로직 구축
+- **기술 스택**: ABAP (Modern Style), SAP SD Module, ALV Grid (OO-ABAP), Open SQL Tuning, BAPI, Authority Check, Screen Painter, Git
+<br>
+
+## 웹&앱 개발
+
 ### 팀 프로젝트
 
 #### 🔬 VisiDoc: 의료 영상 통합 조회 시스템
