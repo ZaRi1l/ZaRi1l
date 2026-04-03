@@ -1,7 +1,7 @@
 [![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2FZaRi1l&title=hits&title_bg=555555&count_bg=3cc6c8&edge_flat=false)](https://github.com/ZaRi1l)
 <br>
 👋 Hi, I’m @ZaRi1l  </br>
-🌱 I’m deepening my knowledge in Spring Boot and exploring Cloud/Docker environments.
+🌱 I’m deepening my knowledge in ABAP and exploring SAP ERP system designs.
 </br>
 
 ##### - 📫 Email: rbxo0913@gmail.com </br>
@@ -12,13 +12,21 @@
 <a href="https://solved.ac/profile/rbxo0913"><img align="center" style="height:185px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rbxo0913" alt="ZaRi's github stats" /></a> 
 <br> <br>
 <!-- <a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api?username=ZaRi1l&show_icons=true&theme=tokyonight" alt="ZaRi's github stats" /></a>
-<a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaRi1l&layout=compact&theme=tokyonight" alt="ZaRi's github stats" /></a> -->
+<a href="https://github.com/ZaRi1l"><img align="center" style="height:185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaRi1l&layout=compact&theme=tokyonight" alt="ZaRi's github stats" /></a> 
 
-</br></br>
+</br></br> -->
 
-### Tech Stack </br>
+### 🏅 Certifications
+- **SAP Certified Associate** - Back-End Developer - ABAP Cloud 
+- **RHCSA** - Red Hat Certified System Administrator 
+- **정보처리기사** - 한국산업인력공단 
+- **SQLD** - 한국데이터베이스진흥원 
+
+</br>
+
+### 🛠️ Tech Stack </br>
 #### - Language </br>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/ABAP-008EE2?style=for-the-badge&logo=sap&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -27,21 +35,25 @@
 #### - Framework </br>
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/> 
 
+#### - API & Communication </br>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+
 #### - DevOps <br/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 
 #### - DB
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 #### - Tools
-<img src="https://img.shields.io/badge/windsurf-ffffff?style=for-the-badge&logo=windsurf&logoColor=black"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SAP_GUI-008EE2?style=for-the-badge&logo=sap&logoColor=white"/> <img src="https://img.shields.io/badge/windsurf-ffffff?style=for-the-badge&logo=windsurf&logoColor=black"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
 </br>
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> 
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/> 
 
 #### - OS
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
 </br></br>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=100&size=10&pause=50&color=00FF00&width=13&height=15&lines=%7C;%5C;-;%2F" alt="Typing SVG" /><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&pause=500&color=00ff00&width=400&height=15&lines=1100011+1101101+1101100+1101110+1100001+1001000+1010001+111101;init+6" alt="Typing SVG" />
 <br><br><br>
